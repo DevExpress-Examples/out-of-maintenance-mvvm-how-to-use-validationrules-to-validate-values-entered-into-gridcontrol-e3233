@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridColumnValidationHelper.cs](./CS/WpfApplication1/GridColumnValidationHelper.cs) (VB: [GridColumnValidationHelper.vb](./VB/WpfApplication1/GridColumnValidationHelper.vb))
+* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
+<!-- default file list end -->
 # MVVM - How to use ValidationRules to validate values entered into GridControl
 
 
