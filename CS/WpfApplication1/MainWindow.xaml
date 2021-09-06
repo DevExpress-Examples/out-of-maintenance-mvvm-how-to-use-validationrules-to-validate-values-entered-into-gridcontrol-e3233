@@ -2,7 +2,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
         xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
-        xmlns:dxgh="clr-namespace:DevExpress.Xpf.Grid.Hierarchy;assembly=DevExpress.Xpf.Grid.v13.1.Core"
+        xmlns:dxgh="clr-namespace:DevExpress.Xpf.Grid.Hierarchy;assembly=DevExpress.Xpf.Grid.v21.1.Core"
         xmlns:local="clr-namespace:WpfApplication1"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WpfApplication1.MainWindow"
         Title="{Binding LastName}" Height="518" Width="836">
